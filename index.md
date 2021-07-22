@@ -1,6 +1,8 @@
 
 ## Welcome
+<head>
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
+</head>
 
 使いかたがわかりません！がとにかくいじり倒して覚えます。
 
