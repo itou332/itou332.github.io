@@ -19,4 +19,7 @@
 <ul>
 <li>今日も天気がいい。目標がうまく設定できない。どうするか。</li><li>にんじんぶら下げられても走れない。</li>
 </ul>
+
+<p>googleに認識されていない。他のblogなど見てできる事をやってみているけれどもうまくいかない。<br>
+  もう少し探ってみる。</p>
 google-site-verification=fBMSiNG7oL_5Ex0W3cFrg9cjEtq11nrnfOKrylGOL98
