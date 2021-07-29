@@ -22,4 +22,5 @@
 
 2021.7/29
 <p>googleに認識されていない。他のblogなど見てできる事をやってみているけれどもうまくいかない。<br>もう少し探ってみる。</p>
-google-site-verification=fBMSiNG7oL_5Ex0W3cFrg9cjEtq11nrnfOKrylGOL98
+
+google-site-verification: googlee79fd21b30a7d0f4.html
