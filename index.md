@@ -30,8 +30,8 @@ google-site-verification: googlee79fd21b30a7d0f4.html
     <path d="m 0,50 a 50,50 0 1,1 0,2 z"
     id="circle" />
     <text><textPath xlink:hreh="#circle">
-   
     </textPath></text>
+      </svg>
 </div>
 <svg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%' viewBox='0 0 200 200'><rect fill='#111c1e' width='100%' height='100%'/>
   <defs><linearGradient id='a' gradientUnits='userSpaceOnUse' x1='100' y1='33' x2='100' y2='-3'><stop offset='0' stop-color='#000' stop-opacity='0'/><stop offset='1' stop-color='#000' stop-opacity='1'/></linearGradient>
