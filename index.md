@@ -42,4 +42,5 @@ google-site-verification: googlee79fd21b30a7d0f4.html
     </textPath></text>
       </svg>
 </div>
- 
+2021.8/6
+ <p>8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。
