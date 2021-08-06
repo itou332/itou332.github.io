@@ -11,7 +11,8 @@
 ワードプレスも同時に利用中
 
 現在工事中です。
- http://itou33good.starfree.jp/
+
+<a href="http://itou33good.starfree.jp/">itou</a>
 
 2021.7/20
 #### 不安が募って歯が抜ける夢を見ました。全部の歯が抜けました。少し気持ちよかったです。（何度か見ました。）
@@ -26,7 +27,7 @@
 
 google-site-verification: googlee79fd21b30a7d0f4.html
 
-
+ 
 <svg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%' viewBox='0 0 200 200'><rect fill='#111c1e' width='100%' height='100%'/>
   <defs><linearGradient id='a' gradientUnits='userSpaceOnUse' x1='100' y1='33' x2='100' y2='-3'><stop offset='0' stop-color='#000' stop-opacity='0'/><stop offset='1' stop-color='#000' stop-opacity='1'/></linearGradient>
   <linearGradient id='b' gradientUnits='userSpaceOnUse' x1='100' y1='135' x2='100' y2='97'><stop offset='0' stop-color='#000' stop-opacity='0'/><stop offset='1' stop-color='#000' stop-opacity='1'/></linearGradient></defs>
