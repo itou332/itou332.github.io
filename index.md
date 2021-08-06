@@ -32,12 +32,13 @@ google-site-verification: googlee79fd21b30a7d0f4.html
   <g fill='#0e181a' fill-opacity='0.88'><rect x='100' width='100' height='100'/><rect y='100' width='100' height='100'/></g>
   <g fill-opacity='0.88'><polygon fill='url(#a)' points='100 30 0 0 200 0'/>
   <polygon fill='url(#b)' points='100 100 0 130 0 100 200 100 200 130'/></g></svg> 
+  <a href=" http://itou33good.starfree.jp/">
   <div class="circular">
    <svg viewBox="0 0 100 95">
     <path d="m 0,50 a 50,50 0 1,1 0,2 z"
     id="circle" />
     <text><textPath xlink:hreh="#circle">
     </textPath></text>
-      </svg>
+      </svg></a>
 </div>
-  
+ 
