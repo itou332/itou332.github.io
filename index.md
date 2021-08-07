@@ -1,4 +1,4 @@
-
+<title>110</title>
 ## Welcome
 <head>
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
@@ -45,3 +45,4 @@ google-site-verification: googlee79fd21b30a7d0f4.html
 2021.8/6
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
 8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。</p>
+ 
