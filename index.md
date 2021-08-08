@@ -46,12 +46,3 @@ google-site-verification: googlee79fd21b30a7d0f4.html
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
 8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。</p>
  
-<ul id="globalnavi">  
-<li id="menu1"><a href="#">Home</a></li>  
-<li id="menu2"><a href="#">menu</a></li>  
-<li id="menu3"><a href="#">menu</a></li>  
-<li id="menu4"><a href="#">menu</a></li>  
-<li id="menu5"><a href="#">menu</a></li>  
-</ul>  
-
-
