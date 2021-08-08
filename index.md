@@ -39,8 +39,8 @@ google-site-verification: googlee79fd21b30a7d0f4.html
    <svg viewBox="0 0 100 95">
     <path d="m 0,50 a 50,50 0 1,1 0,2 z"
     id="circle" />
-    <text><textPath xlink:hreh="#circle">
-    </textPath></text>
+    <text><textPath xlink:hreh="#circle">サンプル試作 
+</textPath></text>
       </svg>
 </div>
 2021.8/6
@@ -48,9 +48,22 @@ google-site-verification: googlee79fd21b30a7d0f4.html
 8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。</p>
  
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" style="background-color: #ccc">
-  <g stroke="black" fill="white" fill-opacity="0.5" stroke-width="1">
+<svg viewBox="0 0 100 95">  
+<g stroke="black" fill="white" fill-opacity="0.5" stroke-width="1">
     <circle cx="100" cy="70" r="50"/>
     <circle cx="70" cy="130" r="50"/>
     <circle cx="130" cy="130" r="50"/>
   </g>
 </svg>
+
+
+
+
+
+
+
+
+
+
+
+
