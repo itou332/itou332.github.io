@@ -1,42 +1,8 @@
-#globalnavi {
-  margin: 0;
-  padding: 0;
-  list-style-type: none; /* リストマークの削除 */
-  width: 200px;
+@keyframes change {
+  0%, 12%, 100% {transform:translateY(0);}
+  17%,29% {transform:translateY(-25%);}
+  34%,46% {transform:translateY(-50%);}
+  51%,63% {transform:translateY(-75%);}
+  68%,80% {transform:translateY(-50%);}
+  85%,97% {transform:translateY(-25%);}
 }
-
-#globalnavi li {
-  width: 200px;
-  height: 40px;
-  margin: 0;
-  padding: 0;
-  display: inline;
-}
-
-#globalnavi a {
-  text-indent: -9999px; /* テキストを隠す */
-  text-decoration: none;
-  display: block;
-  width: 200px;
-  height: 40px; /* リンク領域を広げる */
-  background-image: url(画像のパス);
-  background-repeat: no-repeat;
-}
-
-#menu1 a { background-position: 0 0; } /* 表示画像の位置を指定 */
-#menu2 a { background-position: 0 -40px; }
-#menu3 a { background-position: 0 -80px; }
-#menu4 a { background-position: 0 -120px; }
-#menu5 a { background-position: 0 -160px; }
-
-#globalnavi a:hover {
-  text-decoration: none;
-  background-image: url(画像のパス);
-  background-repeat: no-repeat;
-}
-
-#menu1 a:hover { background-position: -200px 0; } /* 入れ替え画像の位置を指定 */
-#menu2 a:hover { background-position: -200px -40px; }
-#menu3 a:hover { background-position: -200px -80px; }
-#menu4 a:hover{ background-position: -200px -120px; }
-#menu5 a:hover{ background-position: -200px -160px; }
