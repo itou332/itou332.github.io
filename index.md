@@ -54,6 +54,7 @@ google-site-verification: googlee79fd21b30a7d0f4.html
     <circle cx="130" cy="130" r="50"/>
   </g>
 </svg>
-
-<text x="60" y="35" font-size="20" writing-mode="tb">これから寝ます。お休みなさい。</text>
-                            
+2021.8/10
+<text x="0 30 70 120 200" y="30 40 25 45 30" rotate="0 30 -30 45 0" font-size="30">お休みなさい</text>
+He
+ 
