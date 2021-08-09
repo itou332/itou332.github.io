@@ -55,10 +55,4 @@ google-site-verification: googlee79fd21b30a7d0f4.html
   </g>
 </svg>
 
-
-
-
-
-
-
-
+<polygon points="0,10 50,90 100,10"/>
