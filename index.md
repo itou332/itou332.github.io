@@ -55,16 +55,5 @@ google-site-verification: googlee79fd21b30a7d0f4.html
   </g>
 </svg>
 
-<polygon points="0,10 50,90 100,10"/>
-
-<svg width="300px" height="140px" viewBox="0 0 300 140">
-  <rect class="dashoffset2" x="20" y="5" width="200" height="100" stroke="green" stroke-width="5" fill="lightgreen"/>
-</svg>
-CSS
-.dashoffset2 {
-  stroke-dasharray: 600;
-  stroke-dashoffset: 600;
-  
-}
-.dashoffset2:hover {
-  
+<text x="60" y="35" font-size="20" writing-mode="tb">これから寝ます。お休みなさい。</text>
+                            
