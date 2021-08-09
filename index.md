@@ -55,5 +55,4 @@ google-site-verification: googlee79fd21b30a7d0f4.html
   </g>
 </svg>
 2021.8/10
-<text x="0 30 70 120 200" y="30 40 25 45 30" rotate="0 30 -30 45 0" font-size="30">HELLO</text>
- 
+これから寝ます。お休みなさい。
