@@ -10,3 +10,22 @@
  0% {background-position: 0 0;}
 100% {background-position: 100% 0;}
 }
+
+.dashoffset2 {
+  stroke-dasharray: 600;
+  stroke-dashoffset: 600;
+  
+}
+.dashoffset2:hover {
+  animation: dash_animation2 2s linear both;
+}
+ 
+@keyframes dash_animation2 {
+  0% {
+    stroke-dashoffset: 600;
+    stroke-dasharray: 600;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+} 
