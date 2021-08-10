@@ -61,5 +61,6 @@ google-site-verification: googlee79fd21b30a7d0f4.html
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(15 40,40)">
                   Copyright © 2021 itou Inc. All Rights Reserved.
+                 <a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
                 </text>
               </svg></footer>
