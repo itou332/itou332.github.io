@@ -58,7 +58,7 @@ google-site-verification: googlee79fd21b30a7d0f4.html
 これから寝ます。お休みなさい。
 
 <footer>  
- <svg xmlns="http://www.w3.org/2000/svg" width="100" height="150">
+ <svg xmlns="http://www.w3.org/2000/svg" width="350" height="50">
                 <text x="0" y="30" transform="rotate(15 40,40)">
                   Copyright © 2021 itou Inc. All Rights Reserved.
                 </text>
