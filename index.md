@@ -2,7 +2,6 @@
 ## Welcome
 <link rel="stylheet" href="style.css">
 <head>
- 110
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
 
@@ -60,7 +59,7 @@ google-site-verification: googlee79fd21b30a7d0f4.html
 
 <footer>  
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="190">
-                <text x="0" y="30" transform="rotate(20 40,40)">
+                <text x="0" y="30" transform="rotate(30 30,40)">
                   Copyright © 2021 itou Inc. All Rights Reserved.
                 </text>
               </svg></footer>
