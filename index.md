@@ -59,7 +59,7 @@ google-site-verification: googlee79fd21b30a7d0f4.html
 
 <footer>  
  <svg xmlns="http://www.w3.org/2000/svg" width="180" height="120">
-                <text x="0" y="50" transform="rotate(30 20,40)">
+                <text x="0" y="30" transform="rotate(30 20,40)">
                   Copyright © 2021 itou Inc. All Rights Reserved.
                 </text>
               </svg></footer>
