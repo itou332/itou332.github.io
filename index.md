@@ -12,7 +12,7 @@
 
 ワードプレスも同時に利用中
 
-<strike>現在工事中です。<strike>
+<strike>現在工事中です。</strike>
 
 <a href="http://itou33good.starfree.jp/">itou</a>
 
