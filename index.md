@@ -51,7 +51,6 @@ google-site-verification: googlee79fd21b30a7d0f4.html
 これから寝ます。お休みなさい。
 
 2021.8/12
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
