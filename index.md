@@ -1,6 +1,15 @@
 <title>110</title>
 <a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
 ## Welcome
+<script>
+window.onload = function() {
+  setInterval(function() {
+    var dd = new Date();
+    document.getElementById("T1").innerHTML = dd.toLocaleString();
+  }, 1000);
+}
+</script>
+<
 <link rel="stylheet" href="style.css">
 <head>
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
@@ -15,7 +24,7 @@
 <strike>現在工事中です。</strike>
 
 <a href="http://itou33good.starfree.jp/">itou</a>
-
+<div id="T1"></div>
 2021.7/20
 #### 不安が募って歯が抜ける夢を見ました。全部の歯が抜けました。少し気持ちよかったです。（何度か見ました。）
 
