@@ -1,4 +1,4 @@
-<title>110</title>
+<title>110</title><div id="T1"></div>
 <a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
 ## Welcome
 <script>
@@ -24,7 +24,6 @@ window.onload = function() {
 <strike>現在工事中です。</strike>
 
 <a href="http://itou33good.starfree.jp/">itou</a>
-<div id="T1"></div>
 2021.7/20
 #### 不安が募って歯が抜ける夢を見ました。全部の歯が抜けました。少し気持ちよかったです。（何度か見ました。）
 
