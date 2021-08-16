@@ -304,8 +304,8 @@ google-site-verification: googlee79fd21b30a7d0f4.html
 </svg>
 2021.8/16
 <svg
-   width="210mm"
-   height="297mm"
+   width="105mm"
+   height="148.5mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg3111"
