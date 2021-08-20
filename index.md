@@ -389,14 +389,8 @@ google-site-verification: googlee79fd21b30a7d0f4.html
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
- <defs
-     id="defs3884">
-    <rect
-       x="613.06873"
-       y="649.60925"
-       width="574.49817"
-       height="383.67545"
-       id="rect15221" />
+ <defsid="defs3884">
+    <rect x="613.06873" y="649.60925" width="574.49817" height="383.67545"id="rect15221" />
     <rect
        x="700.35992"
        y="647.57922"
@@ -555,3 +549,12 @@ google-site-verification: googlee79fd21b30a7d0f4.html
                   Copyright © 2021 itou Inc. All Rights Reserved.
                 </text>
               </svg></footer>
+
+
+
+
+
+
+
+
+
