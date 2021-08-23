@@ -355,7 +355,6 @@ google-site-verification: googlee79fd21b30a7d0f4.html
   </g>
 </svg>
 2021.8/21
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="153.89604mm"
    height="153.89604mm"
@@ -856,7 +855,6 @@ google-site-verification: googlee79fd21b30a7d0f4.html
   </g>
 </svg>
 2021.8/23
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="214.58426mm"
    height="170.7485mm"
