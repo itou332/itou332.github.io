@@ -24,7 +24,8 @@ window.onload = function() {
 <strike>現在工事中です。</strike>
 
 <a href="http://itou33good.starfree.jp/">itou</a>
-
+<a href="https://github.com/itou332/-progress/blob/c1f8ee501b5e8175d927a68d3c99cc8d303f65e5/README.md">2</a>
+                                                                                                     
 2021.7/20
 #### 不安が募って歯が抜ける夢を見ました。全部の歯が抜けました。少し気持ちよかったです。（何度か見ました。）
 
