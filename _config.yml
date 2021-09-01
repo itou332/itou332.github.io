@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 plugins:
  - jekyll-sitemap
-theme: jekyll-theme-hacker
 google_analytics: UA-xxxxxx-x
 plugins:
   - jekyll-sitemap
