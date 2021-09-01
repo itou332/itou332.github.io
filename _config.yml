@@ -1,5 +1,3 @@
 theme: jekyll-theme-minimal
 plugins:
-    path: sitemap.xml
-    template: ./sitemap_template.xml
-    rel: false
+ - jekyll-sitemap
