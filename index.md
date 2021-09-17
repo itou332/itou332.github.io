@@ -1,11 +1,11 @@
 <headr>
 <title>110</title>
 <div id="T1"></div>
-##menu
+##Welcome ##menu 
 <a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>/
 <a href="http://itou33good.starfree.jp/">itou</a>/
 <a href="https://itou332.github.io/itou332a.github.io/">2ページ</a>
-## Welcome
+
 <hr>
 <script>
 window.onload = function() {
@@ -227,7 +227,7 @@ window.onload = function() {
     <circle cx="130" cy="130" r="50"/>
   </g>
 </svg>
-<p>2021.8/10</p>
+2021.8/10
 これから寝ます。お休みなさい。
 
 2021.8/12
@@ -6045,20 +6045,11 @@ window.onload = function() {
 </svg>
 
 <footer>  
+              <a href="http://itou33good.starfree.jp/">itou</a>
+<a href="https://itou332.github.io/itou332a.github.io/">2ページ</a>
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
                   Copyright © 2021 itou Inc. All Rights Reserved.
                 </text>
               </svg>
-              <a href="http://itou33good.starfree.jp/">itou</a>
-<a href="https://itou332.github.io/itou332a.github.io/">2ページ</a>
               </footer>
-
-
-
-
-
-
-
-
-
