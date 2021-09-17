@@ -1,7 +1,12 @@
+<headr>
 <title>110</title>
 <div id="T1"></div>
-<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
+##menu
+<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>/
+<a href="http://itou33good.starfree.jp/">itou</a>/
+<a href="https://itou332.github.io/itou332a.github.io/">2ページ</a>
 ## Welcome
+<hr>
 <script>
 window.onload = function() {
   setInterval(function() {
@@ -11,10 +16,8 @@ window.onload = function() {
 }
 </script>
 <link rel="stylheet" href="style.css">
-<head>
 <!--agoogle-site-verification: googlee79fd21b30a7d0f4.html-->
   <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
-</head>
 
 使いかたがわかりません！がとにかくいじり倒して覚えます。
 
@@ -24,8 +27,178 @@ window.onload = function() {
 
 <strike>現在工事中です。</strike>
 
-<a href="http://itou33good.starfree.jp/">.itou</a>
-<a href="https://itou332.github.io/itou332a.github.io/">-2ページ</a>
+<a href="http://itou33good.starfree.jp/">itou</a>
+<br>
+<svg
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="irosen.svg"
+   id="svg496"
+   version="1.1"
+   height="1"
+   width="807.867"
+   viewBox="0 0 807.86699 1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview498"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.3932941"
+     inkscape:cx="259.45707"
+     inkscape:cy="-100.4813"
+     inkscape:window-width="958"
+     inkscape:window-height="974"
+     inkscape:window-x="950"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g490" />
+  <desc
+     id="desc2">hanamitainano .dxf - scale = 0.1, origin = (0.0, 0.0), method = auto</desc>
+  <defs
+     id="defs14">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path4" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path7" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path11" />
+    </pattern>
+    <marker
+       id="DistanceX-7"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path22567" />
+    </marker>
+    <pattern
+       id="Hatch-7"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path22570" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path22572" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path22574" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="_0-0_"
+     id="g20"
+     transform="translate(-244.79705,-903.71831)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="_0-1_"
+     id="g490"
+     transform="translate(-244.79705,-903.71831)">
+    <g
+       id="g22616"
+       transform="translate(80.587048,69.956312)">
+      <g
+         inkscape:label="_0-0_"
+         id="g22579" />
+      <g
+         inkscape:label="ADD_LINE"
+         id="g22593">
+        <path
+           style="fill:none;stroke:#00ffff;stroke-dasharray:0.2362, 0.7087"
+           d="M 164.21,834.262 H 672.077"
+           id="path22581" />
+        <path
+           style="fill:none;stroke:#ff00ff;stroke-dasharray:0.2362, 0.7087"
+           d="M 164.21,834.262 H 638.389"
+           id="path22583" />
+        <path
+           style="fill:none;stroke:#ff0000;stroke-dasharray:0.2362, 0.7087"
+           d="M 164.21,834.262 H 580.547"
+           id="path22585" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-dasharray:0.2362, 0.7087"
+           d="m 164.21,834.262 h 322.9"
+           id="path22587" />
+        <path
+           style="fill:none;stroke:#ffff00;stroke-dasharray:0.2362, 0.7087"
+           d="M 164.21,834.262 H 375.875"
+           id="path22589" />
+        <path
+           style="fill:none;stroke:#00ff00;stroke-dasharray:0.2362, 0.7087"
+           d="M 164.21,834.262 H 277.988"
+           id="path22591" />
+      </g>
+      <g
+         inkscape:label="0"
+         id="g22595" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="ADD_LINE"
+     id="g492"
+     transform="translate(-244.79705,-903.71831)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g494"
+     transform="translate(-244.79705,-903.71831)" />
+</svg>
+</headr>
                                                                                                      
 2021.7/20
 #### 不安が募って歯が抜ける夢を見ました。全部の歯が抜けました。少し気持ちよかったです。（何度か見ました。）
@@ -37,19 +210,15 @@ window.onload = function() {
 
 2021.7/29
 <p>googleに認識されていない。他のblogなど見てできる事をやってみているけれどもうまくいかない。<br>もう少し探ってみる。</p>
-
-google-site-verification: googlee79fd21b30a7d0f4.html
   <div class="circular">
    <svg viewBox="0 0 100 95">
     <path d="m 0,50 a 50,50 0 1,1 0,2 z"
     id="circle" />
-    <text><textPath xlink:hreh="#circle">サンプル試作 
-</textPath></text>
       </svg>
 </div>
 2021.8/6
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
-8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。</p>
+<p>8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。</p>
  
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" style="background-color: #ffff">  
 <g stroke="black" fill="white" fill-opacity="0.5" stroke-width="1">
@@ -58,13 +227,13 @@ google-site-verification: googlee79fd21b30a7d0f4.html
     <circle cx="130" cy="130" r="50"/>
   </g>
 </svg>
-2021.8/10
+<p>2021.8/10</p>
 これから寝ます。お休みなさい。
 
 2021.8/12
 <svg
-   width="161.47583mm"
-   height="161.47583mm"
+   width="120.737915mm"
+   height="120.737915mm"
    viewBox="0 0 161.47583 161.47583"
    version="1.1"
    id="svg5"
@@ -858,8 +1027,8 @@ google-site-verification: googlee79fd21b30a7d0f4.html
 </svg>
 2021.8/23
 <svg
-   width="214.58426mm"
-   height="170.7485mm"
+   width="160.938195mm"
+   height="128.061375mm"
    viewBox="0 0 214.58426 170.7485"
    version="1.1"
    id="svg5"
@@ -2959,8 +3128,8 @@ google-site-verification: googlee79fd21b30a7d0f4.html
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="298.5722mm"
-   height="205.6898mm"
+   width="149.2861mm"
+   height="102.8449mm"
    viewBox="0 0 298.5722 205.6898"
    version="1.1"
    id="svg31095"
@@ -3113,12 +3282,9 @@ google-site-verification: googlee79fd21b30a7d0f4.html
   </g>
 </svg>
 2021.8/24
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="379.75809mm"
-   height="298.08755mm"
+   width="189.879045mm"
+   height="149.043775mm"
    viewBox="0 0 379.75809 298.08755"
    version="1.1"
    id="svg5"
@@ -5883,7 +6049,10 @@ google-site-verification: googlee79fd21b30a7d0f4.html
                 <text x="0" y="30" transform="rotate(45 40,40)">
                   Copyright © 2021 itou Inc. All Rights Reserved.
                 </text>
-              </svg></footer>
+              </svg>
+              <a href="http://itou33good.starfree.jp/">itou</a>
+<a href="https://itou332.github.io/itou332a.github.io/">2ページ</a>
+              </footer>
 
 
 
