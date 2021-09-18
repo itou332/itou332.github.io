@@ -1,20 +1,19 @@
 <headr>
 <title>110</title>
-<div id="T1"></div>
-##Welcome ##menu 
-<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>/
-<a href="http://itou33good.starfree.jp/">itou</a>/
-<a href="https://itou332.github.io/itou332a.github.io/">2ページ</a>
-
+<hedar>
+<link rel="stylesheet" href="style.css">
+<h1>3page</h1>
+*menu
+-<a href="https://itou332.github.io/">1page</a>
+-<a href="https://itou332.github.io/itou332a.github.io/">2page</a>
+-<a href="http://itou33good.starfree.jp/">itou</a>
+-<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
 <hr>
-<script>
-window.onload = function() {
-  setInterval(function() {
-    var dd = new Date();
-    document.getElementById("T1").innerHTML = dd.toLocaleString();
-  }, 1000);
-}
-</script>
+</hedar>
+<body>
+-絵を記録します。
+<br>
+
 <link rel="stylheet" href="style.css">
 <!--agoogle-site-verification: googlee79fd21b30a7d0f4.html-->
   <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
