@@ -1,5 +1,3 @@
-<headr>
-<title>110</title>
 <hedar>
 <link rel="stylesheet" href="style.css">
 <h1>1page</h1>
@@ -6045,6 +6043,7 @@
        transform="matrix(0.15298225,0,0,0.15298225,163.63808,-34.027018)" />
   </g>
 </svg>
+</body>
 
 <footer>  
               <a href="http://itou33good.starfree.jp/">itou</a>
