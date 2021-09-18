@@ -10,7 +10,6 @@
 </hedar>
 <body>
 -絵を記録します。
-<a href="http://itou33good.starfree.jp/">itou</a>
 <br>
 <svg
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -193,6 +192,7 @@
 ワードプレスも同時に利用中
 
 <strike>現在工事中です。</strike>
+   <a href="http://itou33good.starfree.jp/">itou</a>
 
                                                                                                      
 <p>2021.7/20</p>
