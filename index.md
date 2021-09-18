@@ -6046,8 +6046,8 @@
 </body>
 
 <footer>  
-              <a href="http://itou33good.starfree.jp/">itou</a>
-<a href="https://itou332.github.io/itou332a.github.io/">2ページ</a>
+-<a href="https://itou332.github.io/">1page</a>
+-<a href="https://itou332.github.io/itou332a.github.io/">2page</a>
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
                   Copyright © 2021 itou Inc. All Rights Reserved.
