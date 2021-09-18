@@ -2,6 +2,7 @@
 <link rel="stylesheet" href="style.css">
 <h1>1page</h1>
 *menu
+-<a href="https://github.com/itou332">my github</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2page</a>
 -<a href="https://itou332.github.io/diary/">3page</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
