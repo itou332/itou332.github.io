@@ -10,20 +10,6 @@
 </hedar>
 <body>
 -絵を記録します。
-<br>
-
-<link rel="stylheet" href="style.css">
-<!--agoogle-site-verification: googlee79fd21b30a7d0f4.html-->
-  <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
-
-使いかたがわかりません！がとにかくいじり倒して覚えます。
-
-自分のブログ作成中
-
-ワードプレスも同時に利用中
-
-<strike>現在工事中です。</strike>
-
 <a href="http://itou33good.starfree.jp/">itou</a>
 <br>
 <svg
@@ -195,6 +181,18 @@
      id="g494"
      transform="translate(-244.79705,-903.71831)" />
 </svg>
+  
+<link rel="stylheet" href="style.css">
+<!--agoogle-site-verification: googlee79fd21b30a7d0f4.html-->
+  <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
+
+使いかたがわかりません！がとにかくいじり倒して覚えます。
+
+自分のブログ作成中
+
+ワードプレスも同時に利用中
+
+<strike>現在工事中です。</strike>
 
                                                                                                      
 <p>2021.7/20</p>
@@ -1026,7 +1024,9 @@
        r="24.876598" />
   </g>
 </svg>
-2021.8/23
+  
+  <p>2021.8/23</p>
+  
 <svg
    width="160.938195mm"
    height="128.061375mm"
