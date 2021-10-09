@@ -1,25 +1,30 @@
 <hedar>
 <link rel="stylesheet" href="style.css">
-<h1>1page</h1>
-*menu
--<a href="https://github.com/itou332">my github</a>
--<a href="https://itou332.github.io/itou332a.github.io/">2page</a>
--<a href="https://itou332.github.io/diary/">3page</a>
--<a href="http://itou33good.starfree.jp/">itou</a>
+<h1>1項目</h1>
+*献立
+-<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
+-<a href="https://itou332.github.io/diary">3項目</a>
+-<a href="https://itou332.github.io/today/">4項目</a>
 -<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
-<hr>
+-<a href="https://github.com/itou332">my github</a>
+-<a href="http://itou33good.starfree.jp/">itou</a>
 </hedar>
+<head>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<meta name=”description” content=”ダークモードでも楽しんでください。”>
+</head>
 <body>
--絵を記録します。
-<br>
+<hr>
+<h2>-絵を記録します。</h2>
 <svg
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="irosen.svg"
    id="svg496"
    version="1.1"
    height="1"
-   width="1000.867"
-   viewBox="0 0 1000.86699 1"
+   width="450"
+   viewBox="0 0 sin*110 1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -181,6 +186,7 @@
      id="g494"
      transform="translate(-244.79705,-903.71831)" />
 </svg>
+
   
 <link rel="stylheet" href="style.css">
 <!--agoogle-site-verification: googlee79fd21b30a7d0f4.html-->
@@ -194,8 +200,6 @@
 
 <strike>現在工事中です。</strike>
    <a href="http://itou33good.starfree.jp/">itou</a>
-
-                                                                                                     
 <p>2021.7/20</p>
 不安が募って歯が抜ける夢を見ました。全部の歯が抜けました。少し気持ちよかったです。（何度か見ました。）
 
@@ -6048,9 +6052,13 @@
 </svg>
 
 <footer>  
-<a href="https://github.com/itou332">my github</a>
--<a href="https://itou332.github.io/itou332a.github.io/">2page</a>
--<a href="https://itou332.github.io/diary/">3page</a>
+*献立
+-<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
+-<a href="https://itou332.github.io/diary">3項目</a>
+-<a href="https://itou332.github.io/today/">4項目</a>
+-<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
+-<a href="https://github.com/itou332">my github</a>
+-<a href="http://itou33good.starfree.jp/">itou</a>
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
                   Copyright © 2021 itou Inc. All Rights Reserved.
