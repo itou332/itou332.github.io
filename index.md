@@ -1,3 +1,9 @@
+---
+layout: default
+title: 私の絵の記録　第1項
+description: PCで描いた絵をここに記録します。
+lang: ja_JP
+---
 <hedar>
 <link rel="stylesheet" href="style.css">
 <h1>1項目</h1>
@@ -12,11 +18,12 @@
 <head>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<meta name=”description” content=”ダークモードでも楽しんでください。”>
+<linke rel = "short cut icon" type = "image/x-icon" href = "aoihata.svg">
 </head>
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
+<br>
 <svg
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="irosen.svg"
