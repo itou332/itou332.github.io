@@ -23,7 +23,6 @@ lang: ja_JP
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
-<br>
 <svg
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="irosen.svg"
@@ -198,7 +197,7 @@ lang: ja_JP
 <link rel="stylheet" href="style.css">
 <!--agoogle-site-verification: googlee79fd21b30a7d0f4.html-->
   <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
-
+<br>
 使いかたがわかりません！がとにかくいじり倒して覚えます。
 
 自分のブログ作成中
