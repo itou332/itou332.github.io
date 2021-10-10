@@ -7,6 +7,7 @@ lang: ja_JP
 <hedar>
 <link rel="stylesheet" href="style.css">
 <h1>1項目</h1>
+<p>
 *献立
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
@@ -14,12 +15,12 @@ lang: ja_JP
 -<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
+</p>
 </hedar>
 <head>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <linke rel = "short cut icon" type = "image/x-icon" href = "aoihata.svg">
-</head>
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
