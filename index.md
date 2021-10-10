@@ -21,7 +21,6 @@ lang: ja_JP
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <linke rel = "short cut icon" type = "image/x-icon" href = "aoihata.svg">
-</head>
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
