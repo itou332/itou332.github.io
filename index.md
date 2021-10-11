@@ -22,7 +22,7 @@ lang: ja_JP
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="stylheet" href="style.css">
   <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
-<link rel="icon" href="/favicon.ico" id="favicon">
+<link rel="icon" href="img/favicon.svg" type=favicon.svg"/svg+xml"> 
 </head>
 <body>
 <hr>
