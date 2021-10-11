@@ -20,190 +20,24 @@ lang: ja_JP
 <head>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<linke rel = "short cut icon" type = "image/x-icon" href = "aoihata.svg">
+<linke rel = "short cut icon" type = "image/x-icon" href = "rect8906.png">
+<link rel="stylheet" href="style.css">
+  <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
-<svg
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="irosen.svg"
-   id="svg496"
-   version="1.1"
-   height="1"
-   width="450"
-   viewBox="0 0 sin*110 1"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview498"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="1.3932941"
-     inkscape:cx="259.45707"
-     inkscape:cy="-100.4813"
-     inkscape:window-width="958"
-     inkscape:window-height="974"
-     inkscape:window-x="950"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g490" />
-  <desc
-     id="desc2">hanamitainano .dxf - scale = 0.1, origin = (0.0, 0.0), method = auto</desc>
-  <defs
-     id="defs14">
-    <marker
-       id="DistanceX"
-       orient="auto"
-       refX="0"
-       refY="0"
-       style="overflow:visible">
-      <path
-         d="M 3,-3 -3,3 M 0,-5 V 5"
-         style="stroke:#000000;stroke-width:0.5"
-         id="path4" />
-    </marker>
-    <pattern
-       id="Hatch"
-       patternUnits="userSpaceOnUse"
-       width="8"
-       height="8"
-       x="0"
-       y="0">
-      <path
-         d="M8 4 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path7" />
-      <path
-         d="M6 2 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path9" />
-      <path
-         d="M4 0 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path11" />
-    </pattern>
-    <marker
-       id="DistanceX-7"
-       orient="auto"
-       refX="0"
-       refY="0"
-       style="overflow:visible">
-      <path
-         d="M 3,-3 -3,3 M 0,-5 V 5"
-         style="stroke:#000000;stroke-width:0.5"
-         id="path22567" />
-    </marker>
-    <pattern
-       id="Hatch-7"
-       patternUnits="userSpaceOnUse"
-       width="8"
-       height="8"
-       x="0"
-       y="0">
-      <path
-         d="M8 4 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path22570" />
-      <path
-         d="M6 2 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path22572" />
-      <path
-         d="M4 0 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path22574" />
-    </pattern>
-  </defs>
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="_0-0_"
-     id="g20"
-     transform="translate(-244.79705,-903.71831)" />
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="_0-1_"
-     id="g490"
-     transform="translate(-244.79705,-903.71831)">
-    <g
-       id="g22616"
-       transform="translate(80.587048,69.956312)">
-      <g
-         inkscape:label="_0-0_"
-         id="g22579" />
-      <g
-         inkscape:label="ADD_LINE"
-         id="g22593">
-        <path
-           style="fill:none;stroke:#00ffff;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 672.077"
-           id="path22581" />
-        <path
-           style="fill:none;stroke:#ff00ff;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 638.389"
-           id="path22583" />
-        <path
-           style="fill:none;stroke:#ff0000;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 580.547"
-           id="path22585" />
-        <path
-           style="fill:none;stroke:#0000ff;stroke-dasharray:0.2362, 0.7087"
-           d="m 164.21,834.262 h 322.9"
-           id="path22587" />
-        <path
-           style="fill:none;stroke:#ffff00;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 375.875"
-           id="path22589" />
-        <path
-           style="fill:none;stroke:#00ff00;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 277.988"
-           id="path22591" />
-      </g>
-      <g
-         inkscape:label="0"
-         id="g22595" />
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="ADD_LINE"
-     id="g492"
-     transform="translate(-244.79705,-903.71831)" />
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="0"
-     id="g494"
-     transform="translate(-244.79705,-903.71831)" />
-</svg>
-
-  
-<link rel="stylheet" href="style.css">
-<!--agoogle-site-verification: googlee79fd21b30a7d0f4.html-->
-  <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
-<br>
-使いかたがわかりません！がとにかくいじり倒して覚えます。
-
+<p>ようこそ私の項目へ。この項目は、新しい発想のための書置きです。</p>
+<p>
+Welcome to my section.
+I'm Japanese.
+I am a beginner in everything.
+This item is a note for new ideas.
+</p>
+<hr>
+<p>使いかたがわかりません！がとにかくいじり倒して覚えます。
 自分のブログ作成中
-
 ワードプレスも同時に利用中
+</p>
 
 <strike>現在工事中です。</strike>
    <a href="http://itou33good.starfree.jp/">itou</a>
@@ -227,7 +61,7 @@ lang: ja_JP
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
 <p>8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。</p>
  
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" style="background-color: #ffff">  
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 200 200" style="background-color: #ffff">  
 <g stroke="black" fill="white" fill-opacity="0.5" stroke-width="1">
     <circle cx="100" cy="70" r="50"/>
     <circle cx="70" cy="130" r="50"/>
@@ -239,8 +73,8 @@ lang: ja_JP
 
 <p>2021.8/12</p>
 <svg
-   width="120.737915mm"
-   height="120.737915mm"
+   width="150.737915mm"
+   height="150.737915mm"
    viewBox="0 0 161.47583 161.47583"
    version="1.1"
    id="svg5"
@@ -3137,8 +2971,7 @@ lang: ja_JP
     </g>
   </g>
 </svg>
-
-
+<br>
 <svg
    width="149.2861mm"
    height="102.8449mm"
