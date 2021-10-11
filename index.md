@@ -22,7 +22,7 @@ lang: ja_JP
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="stylheet" href="style.css">
   <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
-<link rel="shortcut icon" type="image/x-icon" href="rect8906.png/to/favicon.png">
+<link rel="shortcut icon" type="image/png" href="{{ "rect8906.png/favicon.png" | prepend: site.baseurl }}" >
 </head>
 <body>
 <hr>
