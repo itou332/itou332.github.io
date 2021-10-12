@@ -23,6 +23,7 @@ lang: ja_JP
 <link rel="stylheet" href="style.css">
   <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 <link rel="icon" type="img/x-icon" href="./favicon.png">
+<meta name="keywords" content="新しい発想,記録,絵">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
