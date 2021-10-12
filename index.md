@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 私の絵の記録　第1項
-description: PCで描いた絵をここに記録します。
+description: PCで描いた絵をここに記録します。This item is a note for new ideas. 
 lang: ja_JP
 ---
 <hedar>
