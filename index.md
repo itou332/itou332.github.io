@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 私の絵の記録　第1項
+title: 私の絵の記録　第1項/My painting record, paragraph 1.
 description: PCで描いた絵をここに記録します。This item is a note for new ideas. 
 lang: ja_JP
 ---
