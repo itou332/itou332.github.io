@@ -12,7 +12,7 @@ lang: ja_JP
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
--<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
+-<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 </p>
@@ -83,7 +83,7 @@ This item is a note for new ideas.
 <p>2021.8/10</p>
 これから寝ます。お休みなさい。
 
-<p>2021.8/12</p>
+<h3>2021.8/12</h3>
 <svg
    width="150.737915mm"
    height="150.737915mm"
@@ -327,7 +327,7 @@ This item is a note for new ideas.
   </g>
 </svg>
 
-  <p>2021.8/16</p>
+  <h3>2021.8/16</h3>
 
 <svg
    width="105mm"
@@ -381,7 +381,7 @@ This item is a note for new ideas.
   </g>
 </svg>
 
-<p>2021.8/21</p>
+<h3>2021.8/21</h3>
 
 <svg
    width="153.89604mm"
@@ -883,7 +883,7 @@ This item is a note for new ideas.
   </g>
 </svg>
   
-  <p>2021.8/23</p>
+  <h3>2021.8/23</h3>
   
 <svg
    width="160.938195mm"
@@ -3139,7 +3139,7 @@ This item is a note for new ideas.
   </g>
 </svg>
 
-<p>2021.8/24</p>
+<h3>2021.8/24</h3>
   
 <svg
    width="189.879045mm"
@@ -5908,7 +5908,7 @@ This item is a note for new ideas.
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
--<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
+-<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
