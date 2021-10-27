@@ -5913,7 +5913,7 @@ This item is a note for new ideas.
 -<a href="http://itou33good.starfree.jp/">itou</a>
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
-                  Copyright © 2021 itou Inc. All Rights Reserved.
+                © 2021 itou Inc.
                 </text>
               </svg>
               </footer>
