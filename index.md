@@ -9,6 +9,7 @@ lang: ja_JP
 <h1>1項目</h1>
 <p>
 *献立
+-<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
@@ -5905,6 +5906,7 @@ This item is a note for new ideas.
 
 <footer>  
 *献立
+-<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
