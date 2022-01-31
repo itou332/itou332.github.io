@@ -77,13 +77,14 @@ This item is a note for new ideas.
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
 <p>8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。</p>
  
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 200 200" style="background-color: #ffff">  
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 200 200" style="background-color: #ffff">  
 <g stroke="black" fill="white" fill-opacity="0.5" stroke-width="1">
     <circle cx="100" cy="70" r="50"/>
     <circle cx="70" cy="130" r="50"/>
     <circle cx="130" cy="130" r="50"/>
   </g>
 </svg>
+
 <p>2021.8/10</p>
 これから寝ます。お休みなさい。
 
