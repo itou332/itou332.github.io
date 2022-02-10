@@ -1,7 +1,13 @@
 ---
 layout: default
-title: 私の絵の記録　第1項/My painting record, paragraph 1.
-description: PCで描いた絵をここに記録します。This item is a note for new ideas. 
+title: web絵　第1項/My painting record, paragraph 1.
+description: PCで描いた絵をここに記録します。<br>
+このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
+pc,androidのスペックでも絵が変化します。絵はsvg形式で書かれています。<br>
+This is where I record the pictures I draw on my PC.<br>
+This site looks a little different if you use dark mode or change your browser.<br>
+The picture will also change depending on the specs of your PC or android. The pictures are written in svg format.
+
 lang: ja_JP
 ---
 <hedar>
@@ -39,7 +45,7 @@ lang: ja_JP
 <link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<meta name="keywords" content="新しい発想,記録,絵">
+<meta name="keywords" content="新しい発想,記録,絵,painting,record">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
