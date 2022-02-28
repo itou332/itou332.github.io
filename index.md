@@ -47,7 +47,11 @@ lang: ja_JP
 <link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<meta name="keywords" content="新しい発想,記録,絵,painting,record">
+<meta name="keywords" content="新しい発想,記録,絵,painting,record"
+    url: "https://example.com" # the base hostname & protocol for your site
+    plugins:
+      - jekyll-sitemap
+    
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
