@@ -1,3 +1,4 @@
+<p>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/">1項目</a>
@@ -9,6 +10,7 @@
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
+</p>
 <hr>
  itou332.github.io
 <p>ホームページを作っています。作ることが目標です。<br>どんなことが出来るのか実験しながら実戦します。

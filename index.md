@@ -22,7 +22,14 @@ lang: ja_JP
 </p>
 </hedar>
 <head>
-
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-REM6WSLP19');
+</script>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="stylheet" href="style.css">
@@ -33,6 +40,8 @@ lang: ja_JP
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta name="keywords" content="新しい発想,記録,絵,painting,record">
+{% include head.html %}
+ {% seo %}
 </head>
 <body>
 <hr>
