@@ -10,7 +10,7 @@ lang: ja_JP
 <p>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/sun/">1項目</a>
+-<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
@@ -1036,7 +1036,7 @@ This item is a note for new ideas.
 <p>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/sun/">1項目</a>
+-<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
