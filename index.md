@@ -1,13 +1,12 @@
 ---
 layout: default
 title: web絵　第1項/My painting record, paragraph 1.
-description: PCで描いた絵をここに記録します。<br>
-このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
-pc,androidのスペックでも絵が変化します。絵はsvg形式で書かれています。<br>
-This is where I record the pictures I draw on my PC.<br>
-This site looks a little different if you use dark mode or change your browser.<br>
+description: PCで描いた絵をここに記録します。
+このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。
+pc,androidのスペックでも絵が変化します。絵はsvg形式で書かれています。
+This is where I record the pictures I draw on my PC.
+This site looks a little different if you use dark mode or change your browser.
 The picture will also change depending on the specs of your PC or android. The pictures are written in svg format.
-
 lang: ja_JP
 ---
 <hedar>
@@ -16,7 +15,7 @@ lang: ja_JP
 <p>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/">1項目</a>
+-<a href="https://itou332.github.io/sun/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
@@ -47,11 +46,7 @@ lang: ja_JP
 <link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<meta name="keywords" content="新しい発想,記録,絵,painting,record"
-    url: "https://example.com" # the base hostname & protocol for your site
-    plugins:
-      - jekyll-sitemap
-    
+<meta name="keywords" content="新しい発想,記録,絵,painting,record">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
@@ -73,7 +68,7 @@ This item is a note for new ideas.
 <p>2021.7/20</p>
 不安が募って歯が抜ける夢を見ました。全部の歯が抜けました。少し気持ちよかったです。（何度か見ました。）
 
-<p>2021.7/21</p>
+<p>021.7/21</p>
 <ul>
 <li>今日も天気がいい。目標がうまく設定できない。どうするか。</li><li>にんじんぶら下げられても走れない。</li>
 </ul>
@@ -1053,7 +1048,7 @@ This item is a note for new ideas.
 <p>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/">1項目</a>
+-<a href="https://itou332.github.io/sun/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
@@ -1062,6 +1057,7 @@ This item is a note for new ideas.
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
+</p>
 </p>
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
