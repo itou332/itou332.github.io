@@ -324,7 +324,7 @@ This item is a note for new ideas.
 <svg
    width="52.5mm"
    height="74.25mm"
-   viewBox="0 0 52.5 74.25"
+   viewBox="0 0 396.18342 561.25984"
    version="1.1"
    id="svg3111"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -378,7 +378,7 @@ This item is a note for new ideas.
 <svg
    width="102.59736mm"
    height="102.59736mm"
-   viewBox="0 0 102.59736 102.59736"
+   viewBox="0 0 153.89604 153.89604"
    version="1.1"
    id="svg5"
    sodipodi:docname="siroimoya-1.svg"
@@ -878,8 +878,8 @@ This item is a note for new ideas.
 
 <br>
 <svg
-   width="149.2861mm"
-   height="102.8449mm"
+   width="74.64305mm"
+   height="51.42245mm"
    viewBox="0 0 298.5722 205.6898"
    version="1.1"
    id="svg31095"
@@ -3138,7 +3138,7 @@ This item is a note for new ideas.
 <svg
    width="105.49mm"
    height="82.8020975mm"
-   viewBox="0 0 105.49 82.8020975"
+   viewBox="0 0 447.14179 589.96879"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -5900,9 +5900,9 @@ This item is a note for new ideas.
 <br>
 
 <svg
-   width="109.23363mm"
-   height="109.23363mm"
-   viewBox="0 0 109.23363 109.23363"
+   width="80.23363mm"
+   height="80.23363mm"
+   viewBox="0 0 205.26895 207.42212"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
