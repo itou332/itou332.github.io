@@ -30,7 +30,6 @@ lang: ja_JP
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="stylheet" href="style.css">
-  <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 <!-- Favicon head tag -->
 <link rel="icon" type="img/x-icon" href="./favicon.png">
 <link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
@@ -38,6 +37,7 @@ lang: ja_JP
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta name="keywords" content="新しい発想,記録,絵,painting,record">
 {% seo %}
+<meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
 <body>
 <hr>
