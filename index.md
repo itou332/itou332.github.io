@@ -38,12 +38,6 @@ lang: ja_JP
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta name="keywords" content="新しい発想,記録,絵,painting,record">
 {% seo %}
-
-<!--rel=”alternate” hreflang=”bh”
-rel=”alternate” hreflang=”eng”
-rel=”alternate” hreflang=”gle”
-rel=”alternate” hreflang=”sq”
-rel=”alternate” hreflang=”zh”-->
 </head>
 <body>
 <hr>
