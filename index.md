@@ -13,6 +13,7 @@ lang: ja_JP
 <link rel="stylesheet" href="style.css">
 <h1>1項目</h1>
 <p>
+*献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
@@ -27,6 +28,14 @@ lang: ja_JP
 </p>
 </hedar>
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FF91Z8PT3J');
+</script>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="stylheet" href="style.css">
@@ -6118,6 +6127,7 @@ This item is a note for new ideas.
 
 <footer>
 <p>
+*献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
