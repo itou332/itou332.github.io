@@ -10,22 +10,21 @@ The picture will also change depending on the specs of your PC or android. The p
 lang: ja_JP
 ---
 <hedar>
-<link rel="stylesheet" href="style.css">
-<h1>1項目</h1>
+<h1>1項</h1>
 <p>
 *献立
--<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/">1項目</a>
--<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
--<a href="https://itou332.github.io/diary">3項目</a>
--<a href="https://itou332.github.io/today/">4項目</a>
--<a href="https://itou332.github.io/challenge/">5項目</a>
--<a href="https://itou332.github.io/nontitle/">6項目</a>
--<a href="https://itou332.github.io/elaboration/">7項目</a>
--<a href="https://itou332.github.io/analog/">8項目</a>
--<a href="https://itou332.github.io/culture/">9項目</a>
--<a href="https://itou332.github.io/walk/">10項目</a>
--<a href="https://itou332.github.io/pine/">11項目</a>
+-<a href="https://itou332.github.io/top_page/">主項</a>
+-<a href="https://itou332.github.io/">1項</a>
+-<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
+-<a href="https://itou332.github.io/diary">3項</a>
+-<a href="https://itou332.github.io/today/">4項</a>
+-<a href="https://itou332.github.io/challenge/">5項</a>
+-<a href="https://itou332.github.io/nontitle/">6項</a>
+-<a href="https://itou332.github.io/elaboration/">7項</a>
+-<a href="https://itou332.github.io/analog/">8項</a>
+-<a href="https://itou332.github.io/culture/">9項</a>
+-<a href="https://itou332.github.io/walk/">10項</a>
+-<a href="https://itou332.github.io/pine/">11項</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
@@ -40,6 +39,8 @@ lang: ja_JP
   gtag('js', new Date());
   gtag('config', 'G-FF91Z8PT3J');
 </script>
+<link rel="stylesheet" href="style.css">
+<BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Times New Roman"; font-size:x-small }
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="stylheet" href="style.css">
@@ -48,13 +49,13 @@ lang: ja_JP
 <link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<meta name="keywords" content="新しい発想,記録,絵,painting,record">
+<meta name="keywords" content="新しい発想,記録,絵,1項目,itou332.github.io,painting,record">
 {% seo %}
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
 <body>
 <hr>
-<h2>-絵を記録します。</h2>
+<h2>絵を記録します。</h2>
 <p>ようこそ私の項目へ。この項目は、新しい発想のための書置きです。</p>
 <p>
 Welcome to my section.
@@ -70,16 +71,16 @@ This item is a note for new ideas.
 
 <strike>現在工事中です。</strike>
    <a href="http://itou33good.starfree.jp/">itou</a>
-<p>2021.7/20</p>
-不安が募って歯が抜ける夢を見ました。全部の歯が抜けました。少し気持ちよかったです。（何度か見ました。）
+<h3>2021.7/20</h3>
+<p>不安が募って歯が抜ける夢を見ました。全部の歯が抜けました。少し気持ちよかったです。（何度か見ました。）</p>
 
-<p>2021.7/21</p>
+<h3>2021.7/21</h3>
 <ul>
 <li>今日も天気がいい。目標がうまく設定できない。どうするか。</li>
 <li>にんじんぶら下げられても走れない。</li>
 </ul>
 
-<p>2021.7/29</p>
+<h3>2021.7/29</h3>
 <p>googleに認識されていない。他のblogなど見てできる事をやってみているけれどもうまくいかない。<br>もう少し探ってみる。</p>
   <div class="circular">
    <svg viewBox="0 0 100 95">
@@ -87,10 +88,10 @@ This item is a note for new ideas.
     id="circle" />
       </svg>
 </div>
-<p>2021.8/6</p>
+<h3>2021.8/6</h3>
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
 <p>8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。</p>
-<p>2021.8/10</p>
+<h3>2021.8/10<>
 これから寝ます。お休みなさい。
 
 <h3>2021.8/12</h3>
@@ -6132,25 +6133,25 @@ This item is a note for new ideas.
 <footer>
 <p>
 *献立
--<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/">1項目</a>
--<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
--<a href="https://itou332.github.io/diary">3項目</a>
--<a href="https://itou332.github.io/today/">4項目</a>
--<a href="https://itou332.github.io/challenge/">5項目</a>
--<a href="https://itou332.github.io/nontitle/">6項目</a>
--<a href="https://itou332.github.io/elaboration/">7項目</a>
--<a href="https://itou332.github.io/analog/">8項目</a>
--<a href="https://itou332.github.io/culture/">9項目</a>
--<a href="https://itou332.github.io/walk/">10項目</a>
--<a href="https://itou332.github.io/pine/">11項目</a>
+-<a href="https://itou332.github.io/top_page/">主項</a>
+-<a href="https://itou332.github.io/">1項</a>
+-<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
+-<a href="https://itou332.github.io/diary">3項</a>
+-<a href="https://itou332.github.io/today/">4項</a>
+-<a href="https://itou332.github.io/challenge/">5項</a>
+-<a href="https://itou332.github.io/nontitle/">6項</a>
+-<a href="https://itou332.github.io/elaboration/">7項</a>
+-<a href="https://itou332.github.io/analog/">8項</a>
+-<a href="https://itou332.github.io/culture/">9項</a>
+-<a href="https://itou332.github.io/walk/">10項</a>
+-<a href="https://itou332.github.io/pine/">11項</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 </p>
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
-                © 2021 itou Inc.
+                © 2022 itou Inc.
                 </text>
               </svg>
               </footer>
