@@ -40,10 +40,9 @@ lang: ja_JP
   gtag('config', 'G-FF91Z8PT3J');
 </script>
 <link rel="stylesheet" href="style.css">
-<BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Times New Roman"; font-size:x-small }
+<style>BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Times New Roman"; font-size:x-small ;}svg,script {margin: 0 auto;  /* ボックス中央寄せ */}</style>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<link rel="stylheet" href="style.css">
 <!-- Favicon head tag -->
 <link rel="icon" type="img/x-icon" href="./favicon.png">
 <link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
@@ -91,7 +90,7 @@ This item is a note for new ideas.
 <h3>2021.8/6</h3>
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
 <p>8月になっても現状は変わらず。どうやって打破するのか、やるしかないが次の一手が見つけられない。どうする。</p>
-<h3>2021.8/10<>
+<h3>2021.8/10</h3>
 これから寝ます。お休みなさい。
 
 <h3>2021.8/12</h3>
