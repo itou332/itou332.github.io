@@ -95,8 +95,8 @@ This item is a note for new ideas.
 
 <h3>2021.8/12</h3>
 <svg
-   width="90mm"
-   height="90mm"
+   width="70mm"
+   height="70mm"
    viewBox="0 0 161.47583 161.47583"
    version="1.1"
    id="svg5"
@@ -340,8 +340,8 @@ This item is a note for new ideas.
   <h3>2021.8/16</h3>
 
 <svg
-   width="52.5mm"
-   height="74.25mm"
+   width="78.75mm"
+   height="111.375mm"
    viewBox="0 0 396.18342 561.25984"
    version="1.1"
    id="svg3111"
