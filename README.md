@@ -9,8 +9,7 @@
 このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
 pc,androidのスペックでも絵が変化します。絵はsvg形式で書かれています。<br>
 This is where I record the pictures I draw on my PC.<br>
-This site looks a little different if you use dark mode or change your browser.<br>
-The picture will also change depending on the specs of your PC or android. The pictures are written in svg format.</p>
+This site looks a little different when you put it in dark mode or change browsers.<br>The picture changes even with PC and Android specs.<br>The picture is written almost in SVG format.</p>
 
 <nav aria-label="サイト内メニュー">
  *献立
