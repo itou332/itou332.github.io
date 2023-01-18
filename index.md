@@ -10,7 +10,7 @@ The picture changes even with PC and Android specs.<br>
 The picture is written almost in SVG format.
 lang: ja_JP
 ---
-<abbr title="sitemenu 献立 項目">
+
 <hedar>
 <h1>1項</h1>
 <nav aria-label="サイト内メニュー">
@@ -35,8 +35,6 @@ lang: ja_JP
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
 </hedar>
-</addr>
-
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
@@ -88,14 +86,16 @@ This item is a note for new ideas.
 <h3>2021.7/29</h3>
 <p>googleに認識されていない。他のblogなど見てできる事をやってみているけれどもうまくいかない。<br>もう少し探ってみる。</p>
 
-<addr title= 黒い丸_blackball>
-  <div class="circular">
+<addr title= 黒い丸_blackball> 
+<div class="circular">
    <svg viewBox="0 0 100 95">
     <path d="m 0,50 a 50,50 0 1,1 0,2 z"
     id="circle" />
       </svg>
 </div>
 </addr>
+
+
 
 <h3>2021.8/6</h3>
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
