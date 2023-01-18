@@ -93,8 +93,8 @@ This item is a note for new ideas.
     <path d="m 0,50 a 50,50 0 1,1 0,2 z"
     id="circle" />
       </svg>
-      </addr>
 </div>
+</addr>
 
 <h3>2021.8/6</h3>
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
@@ -105,7 +105,9 @@ This item is a note for new ideas.
 <p>これから寝ます。お休みなさい。</p>
 
 <h3>2021.8/12</h3>
+
 <addr title= 輪郭が滲むように揺らめいている。緑色の液体のようなものの周りが黄色く縁どられている。全体の2割り弱に色がなく背景の色が透けている。色の無い部分は下部に集中している。>
+
 <svg
    width="70mm"
    height="70mm"
@@ -406,7 +408,9 @@ This item is a note for new ideas.
 </addr>
 
 <h3>2021.8/21</h3>
+
 <addr title=白い煙のようなものの中に２つのものがある、一つは白色で輪郭は黒く擦れている。もう一方は、黒色で今にも消えてしまいそな装いをしている。>
+
 <svg
    width="102.59736mm"
    height="102.59736mm"
@@ -909,6 +913,9 @@ This item is a note for new ideas.
   
 
 <br>
+
+<addr title= 子供が書いた落書きのような線>
+
 <svg
    width="74.64305mm"
    height="51.42245mm"
@@ -1066,7 +1073,9 @@ This item is a note for new ideas.
 </addr>
 
 <h3>2022.3/2</h3>
+
 <addr title=オレンジ色と緑色のグラデーションになった線の集合体は、折り重なり曲線を生み出している。色が交わる部分は発光するように見える。>
+
 <svg
    width="107.29213mm"
    height="85.37425mm"
@@ -3167,7 +3176,10 @@ This item is a note for new ideas.
 </svg>
 
 <br>
+
 <addr title=中心にある円の周りに扇形のものが９個配置されている。色は水色と赤色が入り乱れていて、扇形の物は不均一に配置されている。>
+
+
 <svg
    width="105.49mm"
    height="82.8020975mm"
@@ -5931,7 +5943,9 @@ This item is a note for new ideas.
 </svg>
 
 <br>
+
 <addr title= 白いしみ>
+
 <svg
    width="80.23363mm"
    height="80.23363mm"
