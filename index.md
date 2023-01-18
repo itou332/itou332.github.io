@@ -15,6 +15,7 @@ lang: ja_JP
 <nav aria-label="サイト内メニュー">
 <addr title= menu,項目,献立> 
  <p>*献立
+  </addr>
     -<a href="https://itou332.github.io/top_page/">主項</a>
     -<a href="https://itou332.github.io/">1項</a>
     -<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
@@ -30,7 +31,6 @@ lang: ja_JP
     -<a href="https://itou332.github.io/pulm/">13項</a>
     -<a href="https://itou332.github.io/cypress/">14項</a>
     -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
-    </addr>
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </p>
