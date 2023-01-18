@@ -10,10 +10,10 @@ The picture changes even with PC and Android specs.<br>
 The picture is written almost in SVG format.
 lang: ja_JP
 ---
+<abbr title="sitemenu 献立 項目">
 <hedar>
 <h1>1項</h1>
 <nav aria-label="サイト内メニュー">
-<abbr title="sitemenu 献立 項目">
    *献立
     -<a href="https://itou332.github.io/top_page/">主項</a>
     -<a href="https://itou332.github.io/">1項</a>
@@ -34,8 +34,8 @@ lang: ja_JP
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
-    </addr>
 </hedar>
+</addr>
 
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
