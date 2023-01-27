@@ -86,14 +86,25 @@ This item is a note for new ideas.
 <p>googleに認識されていない。他のblogなど見てできる事をやってみているけれどもうまくいかない。<br>もう少し探ってみる。</p>
 
 <!--黒い丸_blackball-->
+   <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/kuromaru_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/kuromaru_en.wav">
+    </audio>
+</figure>
+
 <div class="circular">
    <svg viewBox="0 0 100 95">
     <path d="m 0,50 a 50,50 0 1,1 0,2 z"
     id="circle" />
       </svg>
 </div>
-</addr>
-
 
 
 <h3>2021.8/6</h3>
@@ -107,6 +118,25 @@ This item is a note for new ideas.
 <h3>2021.8/12</h3>
 
 <!-- 輪郭が滲むように揺らめいている。緑色の液体のようなものの周りが黄色く縁どられている。全体の2割り弱に色がなく背景の色が透けている。色の無い部分は下部に集中している。-->
+ <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/green_bole_jp.wav">
+            <a href="http://itou33good.starfree.jp/wp-content/uploads/2023/01/green_bole_jp.wav">
+                Download audio
+            </a>
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/green_bole.wav">
+            <a href="http://itou33good.starfree.jp/wp-content/uploads/2023/01/green_bole.wav">
+                Download audio
+            </a>
+    </audio>
+</figure>
+
 
 <svg
    width="70mm"
@@ -353,6 +383,19 @@ This item is a note for new ideas.
 
   <h3>2021.8/16</h3>
 <!--黒い線で曲線が描かれている。曲線は一筆書きでつながっているが、法則がなく不思議な軌道を描いている。-->
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/rakugaki_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/rakugaki1.wav">
+    </audio>
+</figure>
+
 <svg
    width="78.75mm"
    height="111.375mm"
@@ -408,6 +451,18 @@ This item is a note for new ideas.
 <h3>2021.8/21</h3>
 
 <!--白い煙のようなものの中に２つのものがある、一つは白色で輪郭は黒く擦れている。もう一方は、黒色で今にも消えてしまいそな装いをしている。-->
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya.wav">
+    </audio>
+</figure>
 
 <svg
    width="102.59736mm"
@@ -913,6 +968,18 @@ This item is a note for new ideas.
 <br>
 
 <!--子供が書いた落書きのような線-->
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/rakugaki_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/rakugaki1.wav">
+    </audio>
+</figure>
 
 <svg
    width="74.64305mm"
@@ -1072,7 +1139,18 @@ This item is a note for new ideas.
 <h3>2022.3/2</h3>
 
 <!--オレンジ色と緑色のグラデーションになった線の集合体は、折り重なり曲線を生み出している。色が交わる部分は発光するように見える。-->
-
+  <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/sennosilyuugou_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/sensilyuugou_en.wav">
+    </audio>
+</figure>
 <svg
    width="107.29213mm"
    height="85.37425mm"
@@ -3175,7 +3253,18 @@ This item is a note for new ideas.
 <br>
 
 <!--中心にある円の周りに扇形のものが９個配置されている。色は水色と赤色が入り乱れていて、扇形の物は不均一に配置されている。-->
-
+  <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/ma-buu_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/ma-buru.wav">
+    </audio>
+</figure>
 
 <svg
    width="105.49mm"
@@ -5942,6 +6031,18 @@ This item is a note for new ideas.
 <br>
 
 <!--白いしみ-->
+   <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/white_stain_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/wite_stain_en.wav">
+    </audio>
+</figure>
 
 <svg
    width="80.23363mm"
