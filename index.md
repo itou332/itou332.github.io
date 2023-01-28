@@ -370,12 +370,12 @@ This item is a note for new ideas.
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/green_bole_jp.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/green_bole_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/green_bole.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/green_bole.wav">
 </figure>
 </details>
 
@@ -432,20 +432,18 @@ This item is a note for new ideas.
        inkscape:original-d="m 51.905287,228.89805 c -3.11e-4,2e-4 2.105664,-74.6881 3.158027,-112.03183 C 56.115679,79.522486 62.631846,104.68213 66.41564,98.590402 70.199439,92.498676 57.090002,81.779087 52.426713,73.373749 47.763426,64.968402 67.355248,65.740406 74.819047,61.924049 82.282851,58.107683 62.181564,51.426997 55.86236,46.178772 49.543148,40.930576 61.296515,34.347401 64.013126,28.432031 66.72974,22.516651 63.875231,178.09577 63.805819,252.92795 c -0.06943,74.83219 -16.553525,-7.65727 -24.830749,-11.4856 -8.277227,-3.82832 18.225319,0.50237 27.337511,0.75387 9.112197,0.2515 77.251359,-26.55259 115.876559,-39.82857 38.62521,-13.27598 -27.0743,36.46257 -40.6119,54.69417 -13.53762,18.2316 -61.265999,-58.29879 -91.899459,-87.44788 -30.633462,-29.14909 1.485314,39.52253 2.227506,59.28411" />
   </g>
 </svg>
-
-
 <details>
-    <summary>voice</summary>
+<summary>voice</summary>
  <figure>
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya_jp.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/rakugaki_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/rakugaki1.wav">
 </figure>
 </details>
 
@@ -959,12 +957,12 @@ This item is a note for new ideas.
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya_jp.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/siroimoya_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/sensilyuugou_en.wav">
 </figure>
 </details>
 
@@ -1128,16 +1126,16 @@ This item is a note for new ideas.
 </svg>
 <details>
 <summary>voice</summary>
-<figure>
+ <figure>
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya_jp.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/siroimoya_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/siroimoya.wav">
     </audio>
  </figure>
 </details>
@@ -3251,12 +3249,12 @@ This item is a note for new ideas.
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/sennosilyuugou_jp.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/sennosilyuugou_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/sensilyuugou_en.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/sensilyuugou_en.wav">
     </audio>
 </figure>
 </details>
@@ -6033,12 +6031,12 @@ This item is a note for new ideas.
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/ma-buu_jp.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/ma-buu_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/ma-buru.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/ma-buru.wav">
     </audio>
 </figure>
 </details>
@@ -6263,12 +6261,12 @@ This item is a note for new ideas.
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/white_stain_jp.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/white_stain_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/wite_stain_en.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/white_stain_jp.wav">
     </audio>
  </figure>
 </details>
