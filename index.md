@@ -119,7 +119,7 @@ This item is a note for new ideas.
 <h3>2021.8/10</h3>
 <p>これから寝ます。お休みなさい。</p>
 
-<h3>2021.8/12</h3>
+### 2021.8/12
 <!-- 輪郭が滲むように揺らめいている。緑色の液体のようなものの周りが黄色く縁どられている。全体の2割り弱に色がなく背景の色が透けている。色の無い部分は下部に集中している。-->
 <svg
    width="70mm"
@@ -365,7 +365,7 @@ This item is a note for new ideas.
 </svg>
 
 <details>
-<summary>voice</summary>
+ <summary>voice</summary>
  <figure>
     <figcaption>日本語/jp</figcaption>
     <audio
