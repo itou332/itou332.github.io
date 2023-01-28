@@ -376,7 +376,7 @@ This item is a note for new ideas.
       <audio
         controls
         src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/green_bole.wav">
-</figure>
+ </figure>
 </details>
 
   <h3>2021.8/16</h3>
@@ -6256,7 +6256,7 @@ This item is a note for new ideas.
   </g>
 </svg>
 <details>
-    <summary>voice</summary>
+ <summary>voice</summary>
    <figure>
     <figcaption>日本語/jp</figcaption>
     <audio
