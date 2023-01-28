@@ -101,12 +101,12 @@ This item is a note for new ideas.
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/kuromaru_jp.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/kuromaru_jp.wav">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/kuromaru_en.wav">
+        src="https://github.com/itou332/itou332.github.io/blob/gh-pages/1kou/kuromaru_en.wav">
     </audio>
 </figure>
 </details>
