@@ -15,9 +15,6 @@ author: ...
 
 markdown: kramdown
 plugins:
-  - jekyll-feed
-  - jekyll-paginate-v2
-  - jekyll-polyglot
   - jekyll-seo-tag
   - jekyll-sitemap
   
@@ -26,10 +23,8 @@ exclude:
   - Gemfile.lock
 
 # pagination
-permalink: /:year/:month/
   limit: 0
   sort_field: 'date'
-  permalink: '/page/:num/'
   title: ':web絵　第1項/My painting record, paragraph 1.'
  
 
