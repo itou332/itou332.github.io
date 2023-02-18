@@ -8,8 +8,7 @@ This site looks a little different when you put it in dark mode or change browse
 The picture changes even with PC and Android specs.<br>
 The picture is written almost in SVG format.
 baseurl: ...
-url: https://itou332.github.io/top_page/
-twitter_username: ...
+url:　https://github.com/itou332/itou332.github.io
 github_username: itou332
 author: ...
 
@@ -17,13 +16,8 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
 # pagination
-  limit: 0
   sort_field: 'date'
   title: ':web絵　第1項/My painting record, paragraph 1.'
  
@@ -32,5 +26,4 @@ exclude:
 languages: ['ja', 'ko', 'en']
 default_lang: 'ja'
 exclude_from_localization: ['javascript', 'images', 'css']
-parallel_localization: false
 
