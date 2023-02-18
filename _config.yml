@@ -34,7 +34,7 @@ pagination:
   limit: 0
   sort_field: 'date'
   permalink: '/page/:num/'
-  title: ':1項'
+  title: ':web絵　第1項/My painting record, paragraph 1.'
   trail:
     before: 2
     after: 2
