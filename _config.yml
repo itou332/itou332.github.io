@@ -1,5 +1,3 @@
-//txtを消してymlにする。＝_config.yml
-
 title: 1項
 email: ...
 description: ...
@@ -16,7 +14,6 @@ plugins:
   - jekyll-polyglot
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-github-metadata
   
 exclude:
   - Gemfile
