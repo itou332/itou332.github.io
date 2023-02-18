@@ -1,4 +1,42 @@
-plugins:
+//txtを消してymlにする。＝_config.yml
 
-- jekyll-sitemap
-- jekyll-seo-tag
+title: ...
+email: ...
+description: ...
+baseurl: ...
+url: https://itou332.github.io/top_page/
+twitter_username: ...
+github_username: itou332
+author: ...
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-polyglot
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# pagination
+permalink: /:year/:month/
+pagination:
+  enabled: true
+  per_page: 15
+  sort_reverse: true
+  limit: 0
+  sort_field: 'date'
+  permalink: '/page/:num/'
+  title: ':1項'
+  trail:
+    before: 2
+    after: 2
+
+# multilang
+languages: ['ja', 'ko', 'en']
+default_lang: 'ja'
+exclude_from_localization: ['javascript', 'images', 'css']
+parallel_localization: false
