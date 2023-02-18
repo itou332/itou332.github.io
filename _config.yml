@@ -27,17 +27,11 @@ exclude:
 
 # pagination
 permalink: /:year/:month/
-pagination:
-  enabled: true
-  per_page: 15
-  sort_reverse: true
   limit: 0
   sort_field: 'date'
   permalink: '/page/:num/'
   title: ':web絵　第1項/My painting record, paragraph 1.'
-  trail:
-    before: 2
-    after: 2
+ 
 
 # multilang
 languages: ['ja', 'ko', 'en']
