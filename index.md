@@ -45,6 +45,7 @@ lang: ja_JP
   gtag('js', new Date());
   gtag('config', 'G-FF91Z8PT3J');
 </script>
+<link rel="stylesheet" href="reset.css">
 <link rel="stylesheet" href="style.css">
 <style>BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Times New Roman"; font-size:x-small ;}svg,script {margin: 0 auto;  /* ボックス中央寄せ */}</style>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
