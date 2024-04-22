@@ -10,7 +10,6 @@ The picture changes even with PC and Android specs.<br>
 The picture is written almost in SVG format.
 lang: ja_JP
 ---
-
 <hedar>
 <h1>1項</h1>
   <nav aria-label="サイト内メニュー">
@@ -99,7 +98,7 @@ This item is a note for new ideas.
       </svg>
 </div>
 
-<!--<details>
+ <details>
 <summary>
 voice_声
 </summary>
@@ -115,8 +114,7 @@ voice_声
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/kuromaru_en.wav">
     </audio>
 </figure>
-</details>-->
-
+</details>
 
 <h3>2021.8/6</h3>
  <p>ここ最近のブームは板の間に寝ることです。腰が痛くなりました。<br/>
@@ -370,8 +368,7 @@ voice_声
        r="63.805626" />
   </g>
 </svg>
-
-<!--<details>
+<details>
 <summary>
     voice_声
 </summary>
@@ -386,8 +383,7 @@ voice_声
         controls
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/green_bole.wav">
 </figure>
-</details>-->
-
+</details>
 
 <h3>2021.8/16</h3>
 <!--黒い線で曲線が描かれている。曲線は一筆書きでつながっているが、法則がなく不思議な軌道を描いている。-->
@@ -443,7 +439,8 @@ voice_声
   </g>
 </svg>
 
-<!--<details>
+
+<details>
     <summary>
     voice_声
 </summary>
@@ -458,7 +455,8 @@ voice_声
         controls
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya.wav">
 </figure>
-</details>-->
+</details>
+
 
 <h3>2021.8/21</h3>
 <!--白い煙のようなものの中に２つのものがある、一つは白色で輪郭は黒く擦れている。もう一方は、黒色で今にも消えてしまいそな装いをしている。-->
@@ -962,7 +960,7 @@ voice_声
   </g>
 </svg>
 
-<!--<details>
+<details>
  <summary>
     voice_声
 </summary>
@@ -978,7 +976,6 @@ voice_声
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya.wav">
 </figure>
 </details>
--->
 
 <br>
 
@@ -1138,8 +1135,7 @@ voice_声
        inkscape:original-d="m 62.666239,88.11253 c 2.912031,13.7995 5.823794,27.59873 8.735295,41.3977 2.911499,13.79897 33.675456,13.6729 50.512786,20.50895 16.83733,6.83605 -7.84884,-1.77211 -11.77366,-2.65857 -3.92481,-0.88645 21.52201,-10.634 32.28261,-15.9514 10.76061,-5.3174 5.5706,52.15883 8.3555,78.23785 2.7849,26.07902 26.58594,-37.47288 39.87852,-56.20972 13.29257,-18.73684 -59.75421,13.92609 -89.63171,20.88874 -29.877509,6.96266 29.11791,-10.38081 43.67646,-15.57161" />
   </g>
 </svg>
-
-<!--<details>
+<details>
     <summary>
     voice_声
 </summary>
@@ -1155,8 +1151,7 @@ voice_声
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/siroimoya.wav">
     </audio>
  </figure>
-</details>-->
-
+</details>
 
 
 <h3>2022.3/2</h3>
@@ -3261,7 +3256,7 @@ voice_声
   </g>
 </svg>
 
-<!--<details>
+<details>
     <summary>
     voice_声
 </summary>
@@ -3277,8 +3272,7 @@ voice_声
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/sensilyuugou_en.wav">
     </audio>
 </figure>
-</details>-->
-
+</details>
 
 <br>
 
@@ -6046,7 +6040,7 @@ voice_声
   </g>
 </svg>
 
-<!--<details>
+<details>
     <summary>
     voice_声
 </summary>
@@ -6062,7 +6056,8 @@ voice_声
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/ma-buru.wav">
     </audio>
 </figure>
-</details>-->
+</details>
+
 
 <br>
 
@@ -6277,8 +6272,7 @@ voice_声
        transform="matrix(0.93803239,0,0,0.93803239,3.2641675,13.728112)" />
   </g>
 </svg>
-
-<!--<details>
+<details>
     <summary>
     voice_声
 </summary>
@@ -6294,7 +6288,7 @@ voice_声
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/wite_stain_en.wav">
     </audio>
  </figure>
-</details>-->
+</details>
 
 <footer>
   <nav aria-label="サイト内メニュー">
@@ -6322,7 +6316,7 @@ voice_声
    </nav>
     <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
-                © 2023 itou Inc.
+                © 2024 itou Inc.
                 </text>
               </svg>
               </footer>
