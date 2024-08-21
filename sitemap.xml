@@ -6,14 +6,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>https://itou332.github.io/Privacy-policy/</loc>
-  <lastmod>2022-02-11</lastmod>
-  <priority>0.80</priority>
-  <xhtml:link rel="alternate" hreflang="en" href="https://itou332.github.io/Privacy-policy/en/"/>
-  <xhtml:link rel="alternate" href="https://itou332.github.io/Privacy-policy/" hreflang="x-default"/>
-</url>
 <url>
   <loc>https://itou332.github.io/</loc>
   <lastmod>2024-8-18</lastmod>
@@ -24,6 +16,13 @@
 <xhtml:link rel="alternate" hreflang="IE" href="https://itou332.github.io/IE/"/>
 <xhtml:link rel="alternate" hreflang="IN" href="https://itou332.github.io/IN/"/>
 <xhtml:link rel="alternate" hreflang="CH" href="https://itou332.github.io/CH/"/>
+</url>
+<url>
+  <loc>https://itou332.github.io/Privacy-policy/</loc>
+  <lastmod>2022-02-11</lastmod>
+  <priority>0.80</priority>
+  <xhtml:link rel="alternate" hreflang="en" href="https://itou332.github.io/Privacy-policy/en/"/>
+  <xhtml:link rel="alternate" href="https://itou332.github.io/Privacy-policy/" hreflang="x-default"/>
 </url>
 <url>
   <loc>https://itou332.github.io/top_page/</loc>
@@ -40,12 +39,6 @@
   <loc>https://itou332.github.io/itou332a.github.io/</loc>
   <lastmod>2024-8-18</lastmod>
   <priority>0.80</priority>
-<xhtml:link rel="alternate" hreflang="en" href="https://itou332.github.io/itou332a.github.io/en/"/>
-<xhtml:link rel="alternate" hreflang="fr" href="https://itou332.github.io/itou332a.github.io/fr/"/>
-<xhtml:link rel="alternate" hreflang="it" href="https://itou332.github.io/itou332a.github.io/it/"/>
-<xhtml:link rel="alternate" hreflang="IE" href="https://itou332.github.io/itou332a.github.io/IE/"/>
-<xhtml:link rel="alternate" hreflang="IN" href="https://itou332.github.io/itou332a.github.io/IN/"/>
-<xhtml:link rel="alternate" hreflang="CH" href="https://itou332.github.io/itou332a.github.io/CH/"/>
 </url>
 <url>
   <loc>https://itou332.github.io/diary/</loc>
