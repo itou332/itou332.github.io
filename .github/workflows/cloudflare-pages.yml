@@ -3,7 +3,7 @@ name: Update Cloudflare Pages
 on:
   push:
     branches:
-      - main
+      - gh-pags
 
 jobs:
   update-cloudflare:
