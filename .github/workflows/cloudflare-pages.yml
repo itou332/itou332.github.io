@@ -3,7 +3,7 @@ name: Update Cloudflare Pages
 on:
   push:
     branches:
-      - main
+      - gh-pags
 
 jobs:
   update-cloudflare:
@@ -19,3 +19,10 @@ jobs:
           curl -X PUT "https://api.cloudflare.com/client/v4/accounts/$CF_ACCOUNT_ID/pages/sites" \
           -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
           -d '{"page":"$CF_PAGE_NAME","origin":"https://github.com/$GITHUB_REPOSITORY"}'
+
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
