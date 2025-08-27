@@ -117,7 +117,33 @@ href="https://raw.githubusercontent.com/itou332/itou332.github.io/refs/heads/gh-
     .container{display:flex;justify-content:center;align-items:center;}
     svg,script{margin:auto;}
   </style>
-
+  <script type="speculationrules">
+  {
+    "prerender": [{"where": {"href_matches": "/*"}, "eagerness": "moderate"}],
+    "prefetch": [{"where": {"href_matches": "/*"}, "eagerness": "moderate"}]
+  }
+  </script>
+   <!--browser高速化-->
+    <script>
+    (function() {
+      // Chrome Speculation Rules API対応チェック
+      if (!('supports' in HTMLScriptElement.prototype) || !HTMLScriptElement.supports('speculationrules')) {
+        const prefetchSet = new Set();
+        function onPointerEnter() {
+          if (!prefetchSet.has(this.href)) {
+            prefetchSet.add(this.href);
+            const link = document.createElement('link');
+            link.rel = 'prefetch';
+            link.href = this.href;
+            document.head.appendChild(link);
+          }
+        }
+        document.querySelectorAll('a[href^="/"]').forEach(a => {
+          a.addEventListener('pointerenter', onPointerEnter);
+        });
+      }
+    })();
+  </script>
   <!-- Open Graph / Twitter Card -->
   <meta property="og:title" content="せきく絵_1項 / SekikuSketch No.1">
   <meta property="og:description" content="itou が制作した SVG 画像を掲載しているサイトです。新しい発想・記録・1項を紹介します。">
